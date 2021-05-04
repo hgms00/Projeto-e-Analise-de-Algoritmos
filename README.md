@@ -1,5 +1,5 @@
 # Plano de estudo da disciplina
-<h2 align="left">
+<h3 align="left">
   <li><a href="#3.1">Corretude de Algoritmos</a></li>
   <li><a href="#3.3">Complexidade de Algoritmos</a></li>
   <li><a href="#3.5">Divisão e Conquista</a></li>
@@ -8,6 +8,6 @@
   <li><a href="#3.9">Transformação de Problemas</a></li>
   <li><a href="#3.9">NP-completude</a></li>
   <li><a href="#3.9">Lidando com NP-completude</a></li>
-</h2>
+</h3>
 
 
