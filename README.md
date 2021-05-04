@@ -1,4 +1,4 @@
-# Algoritmos referentes as questões da lista 3 da disciplina de Projeto de Análise de Algoritmos
+# Plano de estudo da disciplina
 <h2 align="left">
   <li><a href="#3.1">Corretude de Algoritmos</a></li>
   <li><a href="#3.3">Complexidade de Algoritmos</a></li>
